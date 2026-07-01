@@ -1,0 +1,15 @@
+# Hamilton HVAC Pros
+
+> Licensed, insured HVAC company in Hamilton, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across Hamilton and Hamilton-Wentworth. Call (905) 522-4817.
+
+## Key pages
+- [Home](https://hamiltonhvacpros.ca/)
+- [Services](https://hamiltonhvacpros.ca/services/)
+- [About](https://hamiltonhvacpros.ca/about/)
+- [Blog](https://hamiltonhvacpros.ca/blog/)
+- [Contact](https://hamiltonhvacpros.ca/contact/)
+
+## Contact
+- Phone: (905) 522-4817
+- Email: contact@hamiltonhvacpros.ca
+- Area served: Hamilton, Ontario and Hamilton-Wentworth
