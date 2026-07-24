@@ -1,15 +1,26 @@
 # Hamilton HVAC Pros
 
-> Licensed, insured HVAC company in Hamilton, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across Hamilton and Hamilton-Wentworth. Call (905) 522-4817.
+> Hamilton HVAC Pros is a local HVAC company serving Hamilton, Hamilton-Wentworth, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 522-4817  |  Email: contact@hamiltonhvacpros.ca  |  Website: https://hamiltonhvacpros.ca
+
+Service areas: Hamilton, Ancaster, Stoney Creek, Dundas, Waterdown, Binbrook, Mount Hope
 
 ## Key pages
-- [Home](https://hamiltonhvacpros.ca/)
-- [Services](https://hamiltonhvacpros.ca/services/)
-- [About](https://hamiltonhvacpros.ca/about/)
-- [Blog](https://hamiltonhvacpros.ca/blog/)
-- [Contact](https://hamiltonhvacpros.ca/contact/)
 
-## Contact
-- Phone: (905) 522-4817
-- Email: contact@hamiltonhvacpros.ca
-- Area served: Hamilton, Ontario and Hamilton-Wentworth
+- [Home](https://hamiltonhvacpros.ca/): Hamilton HVAC Pros homepage with service overview and FAQ
+- [About](https://hamiltonhvacpros.ca/about/): About the company and service area
+- [Contact](https://hamiltonhvacpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://hamiltonhvacpros.ca/services/furnace-repair/): Furnace Installation & Repair in Hamilton, Ontario
+- [AC Installation & Repair](https://hamiltonhvacpros.ca/services/ac-repair/): AC Installation & Repair in Hamilton, Ontario
+- [Heat Pumps](https://hamiltonhvacpros.ca/services/heat-pump-repair-installation/): Heat Pumps in Hamilton, Ontario
+- [Duct Cleaning](https://hamiltonhvacpros.ca/services/duct-cleaning/): Duct Cleaning in Hamilton, Ontario
+- [Thermostats](https://hamiltonhvacpros.ca/services/thermostat-repair-replacement/): Thermostats in Hamilton, Ontario
+- [Ductless AC Installation](https://hamiltonhvacpros.ca/services/ductless-ac-installation/): Ductless AC Installation in Hamilton, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Hamilton are answered on the homepage.
